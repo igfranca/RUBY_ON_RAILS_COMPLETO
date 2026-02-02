@@ -1,4 +1,4 @@
-# CONDICIONAIS TERNÁRIAS
+# Condicionais Ternárias
 
 sexo = 'M'
 
@@ -11,7 +11,7 @@ end
 sexo == 'M' ? puts('Masculino') : puts('Feminino')
 
 
-# CASE
+# Case
 print 'Digite uma idade: '
 idade = gets.chomp.to_i
 
@@ -27,7 +27,7 @@ else
 end
 
 
-# UNLESS, Lógica invertida do IF
+# Unless, Lógica invertida do IF
 print 'Digite um número: '
 x = gets.chomp.to_i
 
@@ -38,7 +38,7 @@ else
 end
 
 
-# IF
+# If
 print 'Digite um número: '
 x = gets.chomp.to_i
 
