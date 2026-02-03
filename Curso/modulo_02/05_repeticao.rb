@@ -1,5 +1,4 @@
-# While
-
+#While
 i = 0
 num = 5
 
@@ -10,8 +9,7 @@ end
 
 puts ('--------------------------')
 
-# Each
-
+#Each
 (0..5).each do |i|
   puts "Contatndo..." +  i.to_s
 end
